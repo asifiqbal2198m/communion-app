@@ -1,5 +1,5 @@
 import { useState } from "react";
-import "../styles/EventsPage.css";
+import "../Styles/EventsPage.css";
 
 const EventsPage = () => {
   const [events, setEvents] = useState([
