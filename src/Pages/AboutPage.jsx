@@ -1,3 +1,4 @@
+import React from 'react';   // Make sure React is imported
 import "../Styles/AboutPage.css";
 
 const AboutPage = () => {
